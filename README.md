@@ -6,6 +6,7 @@
 使用的 package 版本都是目前最新的 所以不需要擔心 (目前日期 2021 09 12)
 ## Uasge
 
+#### `npm i` 安裝所有 package 
 #### `npm start` 
 透過 `webpack-dev-server` 運行，可在瀏覽器上輸入 [http://localhost:3000](http://localhost:3000) 瀏覽專案。
 
