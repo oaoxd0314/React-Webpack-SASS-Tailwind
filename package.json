@@ -1,5 +1,5 @@
 {
-  "name": "React + Webpack + SASS + Tailwind",
+  "name": "react-webpack-sass-tailwind",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
