@@ -31,7 +31,7 @@
 * "css-minimizer-webpack-plugin" : css 打包最小化
 * "html-webpack-plugin" : 打包時自動生成 html ，包含 css js 匯入
 * "mini-css-extract-plugin" : 打包時匯出 css 成單一檔案
-* "node-sass" : sass 
+* "sass" : sass 
 * "postcss" : tailwind 前置
 * "postcss-import" : 這要幹嘛我有點忘了 反正重要
 * "postcss-loader" : webpack - postcss loader
